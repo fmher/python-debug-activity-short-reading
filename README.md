@@ -31,7 +31,7 @@ For each of the code challenges listed below, you will create a new `.py` file a
 *Reminder: On your laptop, you can run the file from your command line with the following:*
 
 ```python
-python problem1.py
+python3 problem1.py
 ```
 
 > **Hint:** Make sure you are printing something out with the `print` statement. Otherwise, you won't see any output from running your program!
